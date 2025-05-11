@@ -19,7 +19,7 @@ A responsive admin dashboard built using HTML, CSS, and JavaScript.
 
 ## 📁 Project Structure
 
-Admin-Dashboard/
+Admin-Dashboard/ <br>
 ├── index.html
 ├── style.css
 ├── script.js
