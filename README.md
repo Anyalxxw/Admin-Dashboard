@@ -23,7 +23,7 @@ Admin-Dashboard/ <br>
 ├── index.html <br>
 ├── style.css <br>
 ├── script.js <br>
-└── assets/
+└── img/
 
 ## 🛠️ Technologies Used
 
